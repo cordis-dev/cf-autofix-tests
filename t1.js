@@ -10,6 +10,9 @@ function isTruthy2(x) {
     return Boolean(x);
 }
 
+isTruthy1("True");
+isTruthy2("False");
+
 if (foo) {
     // ...
 }
