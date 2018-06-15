@@ -1,6 +1,6 @@
 <?php 
 $x = 1; 
-while(true) {
+while(FALSE) {
     echo "The number is: $x <br>";
     $x++;
     break;
