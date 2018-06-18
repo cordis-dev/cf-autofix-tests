@@ -5,7 +5,7 @@ WHILE(FALSE) {
     $x++;
     break;
 } 
-while(true) {
+while(TRUE) {
     echo "The number is: $x <br>";
     $x++;
 } 
