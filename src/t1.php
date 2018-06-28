@@ -1,11 +1,11 @@
 <?php 
 $x = 1; 
-while(FALSE) {
+while(true) {
     echo "The number is: $x <br>";
     $x++;
     break;
 } 
-while(true) {
+while($x <= 5) {
     echo "The number is: $x <br>";
     $x++;
 } 
