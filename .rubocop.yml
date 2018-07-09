@@ -6,3 +6,6 @@ Layout/AccessModifierIndentation:
 
 Layout/AlignArray:
   Enabled: true
+
+Performance/RedundantMerge:
+  Enabled: true
