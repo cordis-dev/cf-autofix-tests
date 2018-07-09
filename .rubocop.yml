@@ -9,3 +9,6 @@ Layout/AlignArray:
 
 Performance/RedundantMerge:
   Enabled: true
+
+Performance/RedundantSortBy:
+  Enabled: true
