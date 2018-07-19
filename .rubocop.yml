@@ -10,8 +10,5 @@ Layout/MultilineHashBraceLayout:
 Layout/AlignArray:
   Enabled: true
 
-Performance/RedundantMerge:
-  Enabled: true
-
 Performance/RedundantSortBy:
   Enabled: true
