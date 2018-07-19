@@ -4,6 +4,9 @@ AllCops:
 Layout/AccessModifierIndentation:
   Enabled: true
 
+Layout/MultilineHashBraceLayout:
+  Enabled: true
+
 Layout/AlignArray:
   Enabled: true
 
