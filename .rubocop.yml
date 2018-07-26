@@ -11,4 +11,4 @@ Layout/AlignArray:
   Enabled: true
 
 Performance/RedundantSortBy:
-  Enabled: true
+  Enabled: false
