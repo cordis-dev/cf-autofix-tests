@@ -12,3 +12,6 @@ Layout/AlignArray:
 
 Performance/RedundantSortBy:
   Enabled: true
+  
+Lint/UnusedMethodArgument:
+  Enabled: true
