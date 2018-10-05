@@ -1,8 +1,8 @@
 //
-if (Boolean(foo)) {
+if (foo) {
     // ...
 }
 
-if (!!foo) {
+if (foo) {
     // ...
 }
