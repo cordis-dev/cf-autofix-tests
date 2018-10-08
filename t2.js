@@ -11,6 +11,7 @@ function isTruthy2(x) {
 }
 
 var x = 5;;
+var y = 2;;
 
 if (!!foo) {
     // ...
