@@ -10,8 +10,8 @@ function isTruthy2(x) {
     return Boolean(x);
 }
 
-var x = 5;;
-var y = 1;;
+var x = 5;
+var y = 1;
 
 if (foo) {
     // ...
