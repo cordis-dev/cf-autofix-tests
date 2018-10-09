@@ -10,14 +10,14 @@ function isTruthy2(x) {
     return Boolean(x);
 }
 
-var x = 5;;
-var y = 2;;
+var x = 5;
+var y = 2;
 
-if (!!foo) {
+if (foo) {
     // ...
 }
 
-if (Boolean(foo)) {
+if (foo) {
     // ...
 }
 
