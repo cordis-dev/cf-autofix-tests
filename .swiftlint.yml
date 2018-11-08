@@ -22,4 +22,3 @@ whitelist_rules:
   - empty_count
   - mark
   - notification_center_detachment
-- valid_ibinspectable
