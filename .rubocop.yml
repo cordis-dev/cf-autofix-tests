@@ -7,10 +7,10 @@ Layout/AccessModifierIndentation:
 Layout/MultilineHashBraceLayout:
   Enabled: true
 
-Layout/AlignArray:
+Layout/ArrayAlignment:
   Enabled: true
 
-Performance/RedundantSortBy:
+Style/RedundantSortBy:
   Enabled: true
   
 Lint/UnusedMethodArgument:
