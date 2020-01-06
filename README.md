@@ -1,1 +1,1 @@
-# cf-autofix-tests v2
+# cf-autofix-tests
