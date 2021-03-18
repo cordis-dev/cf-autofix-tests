@@ -1,4 +1,4 @@
-whitelist_rules:
+only_rules:
   - unused_closure_parameter
   - unneeded_break_in_switch
   - trailing_whitespace
