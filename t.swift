@@ -4,3 +4,4 @@ func f1() {
   case 1: break 
   default: break
   }
+}
