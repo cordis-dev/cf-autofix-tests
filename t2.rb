@@ -4,7 +4,7 @@ private
 end
 
 a = [1, 2, 3,
-  4, 5, 6]
+     4, 5, 6]
 array = ['hide',
-     'forest',
-     'hide']
+         'forest',
+         'hide']
