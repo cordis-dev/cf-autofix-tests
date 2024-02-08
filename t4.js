@@ -1,13 +1,13 @@
-var x = 1;;
+var x = 1;
 
 if (foo) {
     // ...
 }
 
-if (Boolean(foo)) {
+if (foo) {
     // ...
 }
 
-if (!!foo) {
+if (foo) {
     // ...
 }
