@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "curly": true,
+    "no-null-keyword": true
+  }
+}
