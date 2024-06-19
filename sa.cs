@@ -14,7 +14,6 @@ namespace AutofixTests
 	{
 	    get
 	    {
-	
 	        return true;
 	    }
 	}
@@ -23,6 +22,5 @@ namespace AutofixTests
         {
             int pid = Environment.ProcessId;
         }
-		
     }
 }
