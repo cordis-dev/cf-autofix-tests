@@ -10,6 +10,15 @@ namespace AutofixTests
 {
     internal class MixedTypes
     {
+	public bool Enabled
+	{
+	    get
+	    {
+	
+	        return true;
+	    }
+	}
+
         public static void Test()
         {
             int pid = Environment.ProcessId;
