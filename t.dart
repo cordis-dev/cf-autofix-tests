@@ -1,2 +1,2 @@
-String message;
+String message = 'msg';
 String o = '$message';
