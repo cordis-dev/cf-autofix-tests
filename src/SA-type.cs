@@ -12,7 +12,6 @@ namespace AutofixTests
         {
             get
             {
-
                 return false;
             }
         }
