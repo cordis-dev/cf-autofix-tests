@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "eslint/init-declarations": "warn",
+    "eslint/logical-assignment-operators": "warn",
+    "eslint/no-duplicate-imports": "warn",
+    "eslint/no-extra-bind": "warn",
+    "eslint/no-lone-blocks": "warn",
+    "eslint/no-lonely-if": "warn",
+    "eslint/no-multi-str": "warn",
+    "eslint/no-object-constructor": "warn",
+    "eslint/no-redeclare": "warn",
+    "eslint/no-sequences": "warn",
+    "eslint/no-useless-concat": "warn",
+    "eslint/no-useless-return": "warn",
+    "eslint/no-void": "warn",
+    "eslint/no-unused-expressions": "off"
+  }
+}
