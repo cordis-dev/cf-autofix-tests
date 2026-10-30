@@ -9,10 +9,10 @@ interface foo {
 }
 
 if (document.querySelector('.foo') === null) {}
-if (document.querySelector('.foo') == null) {}
+if (document.querySelector('.foo') == undefined) {}
                                       ~~~~ [0]
 if (null !== document.querySelector('.foo')) {}
-if (null != document.querySelector('.foo')) {}
+if (undefined != document.querySelector('.foo')) {}
     ~~~~ [0]
 
 [0]: Use 'undefined' instead of 'null'

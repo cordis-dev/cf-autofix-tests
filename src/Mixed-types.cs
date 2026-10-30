@@ -12,9 +12,7 @@ namespace AutofixTests
     {
         public static void Test()
         {
-            int pid = Process.GetCurrentProcess().Id;
+            int pid = Environment.ProcessId;
         }
-
-
     }
 }
