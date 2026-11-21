@@ -13,7 +13,7 @@ namespace AutofixTests
         {
             if (input.Contains('\\', StringComparison.Ordinal))
             {
-                return input.Substring(0, input.IndexOf("\\", StringComparison.Ordinal));
+                return input.Substring(0, input.IndexOf('\\'));
             }
 
             return Path.GetFileNameWithoutExtension(input);
